@@ -1,0 +1,6 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "reactSnippets.settings.prettierEnabled": true,
+    "prettier.jsxSingleQuote": false,
+    "prettier.singleQuote": false
+}
